@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<week>
+   <day>  
+     <dayname> Четверг </dayname>
+     <lessons>
+        <lesson1>
+           <name>Россия в истории современных международных отношений: Lemon Classrom</name>
+           <professor> Богомазов Иван Николаевич </professor>
+           <place>Кронверкский пр., д.49, лит.А (1419 ауд.) </place>
+           <time>10:00 - 11:30 </time>
+           <format>Очно - дистанционный </format>
+        </lesson1>
+        <lesson2>
+           <name>Россия в истории современных международных отношений:Практика</name>
+           <professor>Павловский Алексей Федорович </professor>
+           <place>Кронверкский пр., д.49, лит.А (1419 ауд.) </place>
+           <time>13:30 - 15:00 </time>
+           <format>Очно - дистанционный </format>
+        </lesson2>
+     </lessons>
+   </day>
+</week>
